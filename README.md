@@ -44,7 +44,7 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 
 ### Programming Playgrounds
 
-+ [PlayGrounds](DOCS/Playgrounds.md)
++ [PlayGrounds](DOCS/Playgrounds.md) DOCs/Playgrounds.md
 
 ### Java Centric
 [Basic Java](DOCs/Java.md)
