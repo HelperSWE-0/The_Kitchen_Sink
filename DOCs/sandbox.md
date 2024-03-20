@@ -1,4 +1,4 @@
-### Index
+### Sandboxs and Playgrounds
 
 * [Algorithms](#algorithms)
 * [APL](#apl)
