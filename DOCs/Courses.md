@@ -1,4 +1,4 @@
-### Index
+### Courses
 
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
