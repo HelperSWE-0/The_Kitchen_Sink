@@ -1,18 +1,17 @@
 # The_Kitchen_Sink 
 Is my copy of a repo that has been forked and altered to fit my needs 
-from: https://github.com/EbookFoundation/free-programming-books
-<div align="center">
-  <form action="https://ebookfoundation.github.io/free-programming-books-search">
-    <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
-    <label for="submit"> </label>
-    <input type="submit" id="submit" name="submit" value="Search" />
-  </form>
-</div>
+from:
+
+https://github.com/EbookFoundation/free-programming-books
 
 ## Intro
 
 This list was originally a clone of
+
+
 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 
+
+
 I've taken great liberty in adding my own twist.  after all - this is jus for me.
 
 ## Resources
