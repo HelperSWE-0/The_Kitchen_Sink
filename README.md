@@ -48,5 +48,6 @@ Other than my excellent co-workers..
 
 + [PlayGrounds](DOCS/free-programming-playgrounds.md)
 
-
+### Java Centric
+[Basic Java](DOCs/Java.md)
 
