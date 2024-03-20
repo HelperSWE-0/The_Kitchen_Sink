@@ -1,7 +1,6 @@
 # The_Kitchen_Sink 
-has been forked and altered to fit my needs 
+Is my copy of a repo that has been forked and altered to fit my needs 
 from: https://github.com/EbookFoundation/free-programming-books
-A customized version of a larger repo 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
     <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
@@ -41,10 +40,9 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 ### Podcast - Screencast
 + [Podcasts](DOCs/casts.md)
 
-
 ### Programming Playgrounds
 
 + [PlayGrounds](DOCs/sandbox.md)
 ### Java Centric
-[Basic Java](DOCs/Java.md)
++ [Basic Java](DOCs/Java.md)
 
