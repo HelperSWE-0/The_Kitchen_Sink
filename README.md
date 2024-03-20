@@ -38,7 +38,8 @@ Other than my excellent co-workers..
 
 ### Problem Sets and Competitive Programming
 
-+ [Problem Sets](DOCs/problem-sets-competitive-programming.md)
++ [Problem Sets](DOCs/Competitive_programming.md)
+
 
 ### Podcast - Screencast
 + [Podcasts](DOCs/casts.md)
