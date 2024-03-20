@@ -36,7 +36,7 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 
 ### Problem Sets and Competitive Programming
 
-+ [Problem Sets](DOCs/Competitive_programming.md)
++ [Problem Sets](DOCs/Competitive_Programming.md)
 
 ### Podcast - Screencast
 + [Podcasts](DOCs/casts.md)
