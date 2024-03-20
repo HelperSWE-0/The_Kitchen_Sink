@@ -34,7 +34,7 @@ Gathering Information and Shiny bits across the internet,  like a digital magpie
 ### Java Centric
 + [Basic Java](DOCs/Java.md)
 ### Random Links
-+[links](DOCs/link.md)
+- [links](DOCs/links.md)
 
 
 ## Outro
