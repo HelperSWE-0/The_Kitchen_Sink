@@ -32,7 +32,7 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 
 ### Interactive Programming Resources
 
-+ [Tutorials](DOCs/Tutorials-en.md)
++ [Tutorials](DOCs/tutorial.md)
 
 ### Problem Sets and Competitive Programming
 
