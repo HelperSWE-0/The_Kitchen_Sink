@@ -1,5 +1,3 @@
-This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.
-
 ### Books by Subject
 
 * [0 - Meta-Lists](#0---meta-lists)
