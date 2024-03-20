@@ -17,11 +17,11 @@ This list was originally a clone of
 I've taken great liberty in adding my own twist.  after all - this is jus for me.
 
 ## Resources
-+Other than my excellent co-workers..
++ Other than my excellent co-workers..
 
 ### Books
 
-+[By Subject](DOCs/Books.md)
++ [By Subject](DOCs/Books.md)
 
 ### Cheat Sheets
 
