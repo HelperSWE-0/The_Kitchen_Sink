@@ -28,11 +28,11 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 + [Helper Sheets](DOCs/CheatSheets.md)
 
 ### Free Online Courses
-+ [Courses](DOCs/free-courses-en.md)
++ [Courses](DOCs/Courses.md)
 
 ### Interactive Programming Resources
 
-+ [Tutorials](DOCs/free-programming-interactive-tutorials-en.md)
++ [Tutorials](DOCs/Tutorials-en.md)
 
 ### Problem Sets and Competitive Programming
 
@@ -44,7 +44,7 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 
 ### Programming Playgrounds
 
-+ [PlayGrounds](DOCS/free-programming-playgrounds.md)
++ [PlayGrounds](DOCS/Playgrounds.md)
 
 ### Java Centric
 [Basic Java](DOCs/Java.md)
