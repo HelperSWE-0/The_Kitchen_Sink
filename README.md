@@ -1,5 +1,5 @@
 # The_Kitchen_Sink 
-
+Gathering Information and Shiny bits across the internet,  like a digital magpie.
 
 ## Resources
 + Other than my excellent co-workers..
