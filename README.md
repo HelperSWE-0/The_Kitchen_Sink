@@ -25,7 +25,7 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 
 ### Cheat Sheets
 
-+ [Helper Sheets](DOCs/CheatSheets.md)
++ [Helper Sheets](DOCs/CheatSheet.md)
 
 ### Free Online Courses
 + [Courses](DOCs/Courses.md)
