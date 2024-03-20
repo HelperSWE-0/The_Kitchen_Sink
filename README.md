@@ -23,7 +23,7 @@ Other than my excellent co-workers..
 
 [By Programming Language](DOCs/free-programming-books-langs.md)
 
-[By Subject](DOCs/free-programming-books-subjects.md)
+[By Subject](DOCs/books.md)
 
 ### Cheat Sheets
 
