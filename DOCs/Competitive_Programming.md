@@ -1,4 +1,4 @@
-### Index
+### Skill Sharpening 
 
 * [Competitive Programming](#competitive-programming)
 * [CTF Capture the Flag](#capture-the-flag)
