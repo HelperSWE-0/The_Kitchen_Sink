@@ -10,8 +10,6 @@ Gathering Information and Shiny bits across the internet,  like a digital magpie
 + [By Language](DOCs/books_lang.md)
 
 
-
-
 ### Cheat Sheets
 
 + [Helper Sheets](DOCs/CheatSheet.md)
@@ -35,15 +33,16 @@ Gathering Information and Shiny bits across the internet,  like a digital magpie
 + [PlayGrounds](DOCs/sandbox.md)
 ### Java Centric
 + [Basic Java](DOCs/Java.md)
+### Random Links
++[links](DOCs/link.md)
 
 
-
-Is my copy of a repo that has been forked and altered to fit my needs 
+## Outro
+This is my copy of a repo that has been forked and altered to fit my needs 
 from:
 
 https://github.com/EbookFoundation/free-programming-books
 
-## outro
 
 This list was originally a clone of
 
