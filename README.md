@@ -17,17 +17,15 @@ This list was originally a clone of
 I've taken great liberty in adding my own twist.  after all - this is jus for me.
 
 ## Resources
-Other than my excellent co-workers..
++Other than my excellent co-workers..
 
 ### Books
 
-[By Programming Language](DOCs/free-programming-books-langs.md)
-
-[By Subject](DOCs/Books.md)
++[By Subject](DOCs/Books.md)
 
 ### Cheat Sheets
 
-+ [Helper Sheets](DOCs/free-programming-cheatsheets.md)
++ [Helper Sheets](DOCs/CheatSheets.md)
 
 ### Free Online Courses
 + [Courses](DOCs/free-courses-en.md)
@@ -39,7 +37,6 @@ Other than my excellent co-workers..
 ### Problem Sets and Competitive Programming
 
 + [Problem Sets](DOCs/Competitive_programming.md)
-
 
 ### Podcast - Screencast
 + [Podcasts](DOCs/casts.md)
