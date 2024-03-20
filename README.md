@@ -21,6 +21,10 @@ I've taken great liberty in adding my own twist.  after all - this is jus for me
 ### Books
 
 + [By Subject](DOCs/Books.md)
++ [By Language(DOCs/Book_Lang.md)]
+
+
+
 
 ### Cheat Sheets
 
