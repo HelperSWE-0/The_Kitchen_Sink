@@ -1,4 +1,4 @@
-### Index
+### Tutorials
 
 * [Ada](#ada)
 * [Android](#android)
