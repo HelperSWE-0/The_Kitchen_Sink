@@ -5,3 +5,7 @@
 
 
 [React Hook Stuff](https://react-hook-form.com/)
+
+[Code Review](https://roadmap.sh/code-review)
+[RoadMap](https://roadmap.sh)
+[The Curricula](https://www.thecurricula.com/)
