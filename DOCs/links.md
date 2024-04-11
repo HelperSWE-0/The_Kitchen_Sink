@@ -20,3 +20,6 @@
 
 
 [not at all tech related.. but it is cookies..not server cookies.. but.. nvm....](https://gideonsbakehouse.com/locations/disney-springs/)
+[Hood links to MS Planner](https://www.hood.edu/sites/default/files/Computer%20Science%20and%20Information%20Technology/MS%2BCS%2BPlanner%2BNov2023.pdf)
+[Hood links to MS Planner](https://www.hood.edu/sites/default/files/Computer%20Science%20and%20Information%20Technology/Planners/MS%2BCYBR%2BPlanner%2BMay2021.pdf)
+[Hood links to MS Planner](https://www.hood.edu/sites/default/files/MS%2BInformationTechnology%2BApr2019%20(2).pdf)
