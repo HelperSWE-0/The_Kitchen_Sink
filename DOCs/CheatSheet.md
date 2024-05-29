@@ -28,7 +28,7 @@
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
-*[Jest](#Jest)
+* [Jest](#Jest)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
