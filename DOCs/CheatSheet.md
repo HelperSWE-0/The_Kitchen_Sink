@@ -266,7 +266,7 @@
 
 ### Jest
 
-*[Jest](https://blog.openreplay.com/mocking-tests-with-jest/) -OpenReplay(HTML)
+* [Jest](https://blog.openreplay.com/mocking-tests-with-jest/) -OpenReplay(HTML)
 
 
 #### jQuery
