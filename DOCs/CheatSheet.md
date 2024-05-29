@@ -28,6 +28,7 @@
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
+*[Jest](#Jest)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
@@ -261,6 +262,11 @@
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
 * [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - Josh W. Comeau (HTML)
+
+
+### Jest
+
+*[Jest](https://blog.openreplay.com/mocking-tests-with-jest/) -OpenReplay(HTML)
 
 
 #### jQuery
