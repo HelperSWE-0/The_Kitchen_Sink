@@ -21,9 +21,8 @@ This incorporates general guidance found in the PF Wiki and that is given often 
 
 Do the steps in order and don't skip steps that apply to you.
 
-Graphical version
-The [flowchart]()
-This site was built using [GitHub Pages](https://pages.github.com/).
+The Graphical [flowchart](https://i.imgur.com/lSoUQr2.jpeg) view.
+
 
 Step 0: Budget and reduce expenses, set realistic goals
 Fundamental to a sound financial footing is knowing where your money is going. Budgeting helps you see your sources of income less your expenses. You should minimize your expenses to the extent practical. Housing costs, utilities, and basic sustenance are harder to eliminate than "entertainment," eating out, or clothing expenses.
